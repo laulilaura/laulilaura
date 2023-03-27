@@ -2,7 +2,7 @@
 
 # Laura
 
-I'm currently in my 4th year of scholarship in Computer Science and Management at Polytech Engineering School in Montpellier 🇫🇷 🥐
+I am currently in my 4th year of engineering school in computer science and management at Polytech Montpellier 🇫🇷 🥐
 
 🚨[LOOKING FOR AN INTERNATIONAL INTERSHIP](#work-experience)
 
