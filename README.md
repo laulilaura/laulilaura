@@ -4,7 +4,7 @@
 
 I am currently in my 4th year of engineering school in computer science and management at Polytech Montpellier 🇫🇷 🥐
 
-🚨[LOOKING FOR AN INTERNATIONAL INTERSHIP](#work-experience)
+🚨[JE SUIS A LA RECHERCHE D'UN CONTRAT DE PROFESSIONNALISATION](#work-experience)
 
 
 So here are [my skills](#my-skills) and [my experiences](#my-experiences)
