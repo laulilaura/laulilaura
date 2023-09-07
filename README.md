@@ -2,10 +2,7 @@
 
 # Laura
 
-I am currently in my 4th year of engineering school in computer science and management at Polytech Montpellier 🇫🇷 🥐
-
-🚨[JE SUIS A LA RECHERCHE D'UN CONTRAT DE PROFESSIONNALISATION](#work-experience)
-
+I am currently in my 5th year of engineering school in computer science and management at Polytech Montpellier 🇫🇷 🥐
 
 So here are [my skills](#my-skills) and [my experiences](#my-experiences)
 
@@ -34,12 +31,10 @@ So here are [my skills](#my-skills) and [my experiences](#my-experiences)
 
 ### Work experience
 
-I had the opportunity to do a 3-month internship in the Department of Isère in Grenoble in June 2021. I was able to develop my skills in web application development, by initiating the redesign of a php application to Asp.net Core.
+👥 June, Jully and August 2021 - I had the opportunity to do a 3-month internship in the Department of Isère in Grenoble in June 2021. I was able to develop my skills in web application development, by initiating the redesign of a php application to Asp.net Core.
 
-🎯 As part of my studies, I'm looking for an international #internship in IT development.
-This professional adventure would start in June 2023, for a period of 2.5 months.
-The desire to perfect my English, to discover another culture and to improve my skills in software engeneering pushes me today to do everything I can to find my ideal internship ! 🕵️‍♀️
-Proficient in OOP, IT analysis and design, Web and database, I have the will to use all my knowledge in an IT team, and bring my French touch 🥖
+🌳 June and Jully 2023 - The dendrochronology researchers at the University of Liège, in collaboration with the Royal Institute for Artistic Heritage in Brussels, would like to create an application to meet their needs. I spent 9 weeks doing an internship at the University of Liège to work on this project, called Deep In Heritage. I joined a team of three developers to design and implement an interoperable database and an accessible interface for performing actions on dendrochronological data.
+
 
 🔁 I remain open to any proposal regarding my training. Feel free to reach me out via email or LinkedIn :
 laurabenaiton@gmail.com 
@@ -50,8 +45,7 @@ https://www.linkedin.com/in/laura-benaiton/
 🥷🏻 I am a great adventurer in search of new adventures 
 I had the chance to travel a lot in my free time and had the opportunity to discover many cultures. I like to adapt to any situation and learn new things every day !
  🇧🇪 🇮🇹 🇭🇺 🇺🇦 🇵🇱 🇦🇲 🇰🇿 🇷🇴 🇪🇸 🇵🇹
-
-
+ 
 <!--
 **laulilaura/laulilaura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
