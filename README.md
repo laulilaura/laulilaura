@@ -35,6 +35,7 @@ So here are [my skills](#my-skills) and [my experiences](#my-experiences)
 
 🌳 June and Jully 2023 - The dendrochronology researchers at the University of Liège, in collaboration with the Royal Institute for Artistic Heritage in Brussels, would like to create an application to meet their needs. I spent 9 weeks doing an internship at the University of Liège to work on this project, called Deep In Heritage. I joined a team of three developers to design and implement an interoperable database and an accessible interface for performing actions on dendrochronological data.
 
+🌐 September 2023 to August 2024 - Fullstack Developer on a professional training contract at Sopra Steria. Evolutive maintenance of a Java Spring - Angular application for the customer Orange
 
 🔁 I remain open to any proposal regarding my training. Feel free to reach me out via email or LinkedIn :
 laurabenaiton@gmail.com 
